@@ -14,7 +14,7 @@ Nossa interface foi projetada pensando na facilidade de uso. Você não precisa 
 
 Preocupado com a segurança de suas informações? Esta aplicação oferece recursos para proteger suas anotações sensíveis. Utilizamos autenticação Google para garantir que apenas você tenha acesso ao conteúdo.
 
-## Tecnologias
+## Tecnologias 👾
 
 - [Node.js](https://nodejs.org/en)
 - [mongoDB](https://www.mongodb.com/) (noSQL Database)
@@ -22,7 +22,7 @@ Preocupado com a segurança de suas informações? Esta aplicação oferece recu
 - [Express.js](https://expressjs.com/) (Web Framework)
 - [Template Engine](https://getbootstrap.com/) (EJS & Bootstrap)
 
-## Rotas (API)
+## Rotas (API) 👉
 
 Funcionalidade  | HTTP  | Rota
 --------- | --------- | ------
