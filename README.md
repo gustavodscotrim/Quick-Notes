@@ -1,4 +1,4 @@
-# Quick Notes
+# Quick Notes ✍️📜
 
 Bem-vindo ao Quick Notes! Esta aplicação foi desenvolvida como projeto de Extensão do Curso de Análise e Desenvolvimento de Sistemas (ADS) do Centro Universitário Filadélfia - UniFil. Objetivamos com esta aplicação ofertar uma plataforma para gerenciar suas anotações e informações importantes. Se você não está convencido dos motivos pelos quais deveria adotar um aplicativo de notas, continue lendo para descobrir como Quick Notes pode contribuir em sua vida.
 
@@ -6,11 +6,11 @@ Bem-vindo ao Quick Notes! Esta aplicação foi desenvolvida como projeto de Exte
 
 Uma das vantagens mais evidentes de usar um aplicativo de notas é a acessibilidade. Não importa se você está no trabalho, em casa ou no trânsito, você pode acessar suas notas a partir de qualquer dispositivo conectado à internet. A sincronização automática garante que suas informações estejam sempre atualizadas e disponíveis quando e onde você precisar delas.
 
-### Facilidade de Uso
+### Facilidade de Uso 💯
 
 Nossa interface foi projetada pensando na facilidade de uso. Você não precisa ser um especialista em tecnologia para começar a criar e editar suas notas. Comece a usar este aplicativo web e aproveite a simplicidade.
 
-### Privacidade e Segurança
+### Privacidade e Segurança 📎
 
 Preocupado com a segurança de suas informações? Esta aplicação oferece recursos para proteger suas anotações sensíveis. Utilizamos autenticação Google para garantir que apenas você tenha acesso ao conteúdo.
 
@@ -38,7 +38,7 @@ Login | GET | "/auth/google"
 Auth RollBack | GET | "/google/callback"
 Logout | GET | "/logout"
 
-## Requisitos Mínimos
+## Requisitos Mínimos 🖥
 
 - Node.js (14.18.2)
 - Npm (6.14.15)
@@ -56,7 +56,7 @@ GOOGLE_CALLBACK_URL=http://localhost:5000/google/callback
 
 ```
 
-## Instalação
+## Instalação 👇🏻
 
 Clone o projeto em um diretório local e utilize o terminal para instalação de todas as dependências do projeto utilizando o "npm install" e, posteriormente, "npm start" para inicialização do servidor da aplicação". Após isso, o projeto será inicializado, e uma página do navegador será aberta (http://localhost:5000/).
 
